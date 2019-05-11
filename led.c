@@ -1,3 +1,4 @@
+//该子程序搭配74ls138芯片控制ABC三端输入信号通过8个LED显示速度等级
 #include "stm32f10x.h"
 #include "step_motor.h"
 
